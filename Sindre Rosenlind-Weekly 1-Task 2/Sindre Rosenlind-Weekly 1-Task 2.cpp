@@ -26,7 +26,4 @@ int main() {
 	if (answer == no) {
 		std::cout << "Oh you dont like coffee\n";
 	}
-	
-	
-
 }
